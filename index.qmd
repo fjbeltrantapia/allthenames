@@ -1,0 +1,24 @@
+---
+subtitle: "The return from baptism (Hubert Salentin, 1859)"
+about:
+  template: trestles  # jolla / trestles / broadside
+  # id: about-block
+  image: "img/baptism.png"
+  image-width: 30em
+  image-shape: round
+---
+
+# What was in a name? Culture, naming practices and individual outcomes in the past
+
+This research project studies first names in historical Europe (circa 1750-1950) as a source of information about parental cultural values and beliefs (i.e. the importance attached to religious values, family ties, education, political beliefs, and gender roles, among other dimensions). Relying on names as expressions of parental attitudes also helps shedding light on how parents raised their children and therefore shaped their individual outcomes (i.e. infant and child mortality, education, heights, marriage age, etc.).
+
+Funded by the Research Council of Norway (FRIPRO, 2026-2030), this project is hosted at the Department of Historical Studies at the Norwegian University of Science and Technology. 
+
+::: {#about-block}
+## News
+:::
+
+:::{.column-body}
+[What was in a name? Culture, naming practices and literacy](papers/names-education-2024.pdf){target="_blank"} (Working Paper with Francisco J. Marco-Gracia)
+
+:::

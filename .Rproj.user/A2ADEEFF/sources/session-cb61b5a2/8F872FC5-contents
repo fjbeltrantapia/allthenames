@@ -1,0 +1,53 @@
+website:
+  title: "ALL THE NAMES"                       
+  description: "Project website"   
+  image: img/fran_pic.jpg                                   
+  favicon: img/favicon_dark.png                             
+  
+  navbar:
+    pinned: true
+    right:
+      - text: "Description"
+        href: description.qmd 
+      - text: "Publications"
+        href: publications.qmd 
+      - text: "Conferences"  
+        href: conferences.qmd 
+      - text: "Data"
+        href: datasets.qmd        
+      - text: "Media"
+        href: media.qmd
+      - text: "Contact"
+        href: members.qmd
+    
+  search: 
+    location: navbar
+    type: textbox
+  
+project:
+  type: website
+  output-dir: docs
+  
+  preview: 
+    port: 22222
+    browser: true
+    watch-inputs: true
+    navigate: true
+
+execute:
+  freeze: true
+
+format:
+  html:
+    fontsize: 1.1em
+    css: styles.css
+    theme: sandstone
+    margin: true  
+    linkcolor: $blue 
+    toc: false
+    code-link: true
+    anchor-sections: true
+    fig-cap-location: bottom
+    reference-location: margin
+    footnotes-hover: true
+    link-external-newwindow: true

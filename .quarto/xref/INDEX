@@ -1,0 +1,32 @@
+{
+  "404.qmd": {
+    "404.html": "c53aeb7a"
+  },
+  "index.qmd": {
+    "index.html": "b3116214"
+  },
+  "publications.qmd": {
+    "publications.html": "6d21a77f"
+  },
+  "about.qmd": {
+    "about.html": "c02a2028"
+  },
+  "description.qmd": {
+    "description.html": "e705e0dd"
+  },
+  "members.qmd": {
+    "members.html": "3b2eb888"
+  },
+  "conferences.qmd": {
+    "conferences.html": "90ad78cf"
+  },
+  "media.qmd": {
+    "media.html": "b165b377"
+  },
+  "data.qmd": {
+    "data.html": "0fad6370"
+  },
+  "datasets.qmd": {
+    "datasets.html": "f1f7d105"
+  }
+}

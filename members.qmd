@@ -1,7 +1,11 @@
 ## Project team
 
-Principal Investigator: [Francisco J. Beltrán Tapia](https://fjbeltrantapia.github.io).
+The project is hosted at the Department of Historical Studies at the Norwegian University of Science and Technology.
+
+[Francisco J. Beltrán Tapia](https://fjbeltrantapia.github.io). Principal Investigator.
+
+[Ida Marie Stallvik](https://www.ntnu.edu/employees/ida.m.stallvik). PhD Candidate.
 
 ## Associated members
 
-<!--Guido Alfani (University of Bocconi), Jeanet Bentzen (University of Copenhagen), Gregory Clark (University of Southern Denmark), Neil Cummins (London School of Economics), Lionel Kesztenbaum (French Demographic Institute, INED), Jan Kok (Radboud University), Richard Coates (UWE Bristol), Paul Puschmann (Radboud University), Luciana Quaranta (Lund University), Kristin Ranestad (University of Oslo), David Reher (University Complutense Madrid), Paul Richard Sharp (University of Southern Denmark) and Hilde L. Sommerseth (University of Tromsø).-->
+Guido Alfani (University of Bocconi), Jeanet Bentzen (University of Copenhagen), Gregory Clark (University of Southern Denmark), Neil Cummins (London School of Economics), Lionel Kesztenbaum (French Demographic Institute, INED), Jan Kok (Radboud University), Richard Coates (UWE Bristol), Paul Puschmann (Radboud University), Luciana Quaranta (Lund University), Kristin Ranestad (University of Oslo), David Reher (University Complutense Madrid), Paul Richard Sharp (University of Southern Denmark) and Hilde L. Sommerseth (University of Tromsø).

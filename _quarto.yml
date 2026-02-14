@@ -4,6 +4,13 @@ website:
   image: img/fran_pic.jpg                                   
   favicon: img/favicon_dark.png                             
   
+  page-footer:
+    center: |
+      <div style="text-align:center;">
+        <img src="/img/ntnu-logo.png" height="50" style="margin-right:40px;">
+        <img src="/img/rcn-logo.png" height="50" style="margin-left:40px;">
+      </div>
+      
   navbar:
     pinned: true
     right:

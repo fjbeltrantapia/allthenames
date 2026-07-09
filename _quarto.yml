@@ -6,10 +6,7 @@ website:
   
   page-footer:
     center: |
-      <div style="text-align:center;">
-        <img src="/img/ntnu-logo.png" height="50" style="margin-right:40px;">
-        <img src="/img/rcn-logo.png" height="50" style="margin-left:40px;">
-      </div>
+      <div style="display:flex; justify-content:center; align-items:center; gap:60px;"><img src="/img/ntnu-logo.png" height="50"><img src="/img/rcn-logo.png" height="50"></div>
       
   navbar:
     pinned: true

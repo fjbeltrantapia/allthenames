@@ -1,3 +1,32 @@
-## Forthcoming
 
+
+::: {.grid}
+
+::: {.g-col-9}
+### Workshop: What was in a name? Culture, naming practices and individual outcomes in the past 
+
+**Trondheim, October 12-13**
+
+<div style="margin-bottom: 2em;"></div>
+
+**Call for Papers**
+
+Naming practices reflect the cultural context underpinning a particular society, thus offering a unique opportunity to study cultural variation, persistence and change. Likewise, given that first names provide crucial insights about parental values and beliefs, they can shed light on how cultural factors may have influenced the way parents raised their children (e.g. the care they devoted to their children, the importance they attached to education, their political views, etc.). This conference therefore invites contributions studying the information contained in first names from a historical perspective. In particular, we seek contributions (1) tracing changes in naming practices over time or in response to particular events; (2) analysing the dimensions that explain the variation in naming practices, not only across regions and over time, but also between families; and (3) exploring how parental cultural values, captured through names, may influence their children outcomes, in terms of health, education, marriage behaviour, politics, etc.
+
+Hosted at the Department of Historical Studies at the Norwegian University of Science and Technology, this interdisciplinary workshop aims to bring together historians, economists, demographers and other social scientists working on these issues from a historical perspective. If you are interested in presenting your work, please contact Lars Harhoff Andersen ([lha@econ.ku.dk](mailto:lha@econ.ku.dk)) or Francisco J. Beltrán Tapia ([francisco.beltran.tapia@ntnu.no](mailto:francisco.beltran.tapia@ntnu.no)). A paper proposal (up to 500 words) should be submitted before September 1^st^. Accepted contributions will be notified by Sept 15^th^.
+
+<!--Lunch, refreshments and dinner will be provided during the workshop. There is no participation fee. Participants are expected to cover their own travel and accommodation expenses. Stipends may be available to support the participation of junior researchers.-->
+:::
+
+::: {.g-col-3}
+ 
+![<span style="font-size: 0.60em;">The baptism (Anker, 1864).</span>](img/baptism-anker-1864.jpg)
+
+![<span style="font-size: 0.60em;">Population census (Spain, 1860).</span>](img/censo-1860-cropped.jpg)
+
+![<span style="font-size: 0.60em;">The baptismal procession (Fendi, 1829).</span>](img/baptism-fendi-1829.jpg)
+
+:::
+
+:::
 

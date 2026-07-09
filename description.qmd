@@ -12,7 +12,7 @@ format:
 
 ![Population census (Spain, 1860).](img/censo-1860-cropped.jpg)
 
-![The baptismal procession (Fendi, 1829), .](img/baptism-fendi-1829.jpg)
+![The baptismal procession (Fendi, 1829).](img/baptism-fendi-1829.jpg)
 
 :::
 
@@ -32,9 +32,9 @@ Relying on individual-level information contained in parish and civil registers 
 
 3. Explore how culture helps shedding light on how parents raised their children and therefore shaped their individual outcomes (i.e. infant and child mortality, education, heights, marriage age, etc.).
 
-Funded by the Research Council of Norway (FRIPRO, 2026-2030), this project is hosted at the Department of Historical Studies at the Norwegian University of Science and Technology. 
-
 :::
+
+Funded by the Research Council of Norway (FRIPRO, 2026-2030), this project is hosted at the Department of Historical Studies at the Norwegian University of Science and Technology. 
 
 :::
 

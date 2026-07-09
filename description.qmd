@@ -34,6 +34,14 @@ Relying on individual-level information contained in parish and civil registers 
 
 :::
 
+:::
+
+::: {.grid}
+
+::: {.g-col-12}
+
+<div style="margin-bottom: 2em;"></div>
+
 Funded by the Research Council of Norway (FRIPRO, 2026-2030), this project is hosted at the Department of Historical Studies at the Norwegian University of Science and Technology. 
 
 :::

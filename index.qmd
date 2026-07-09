@@ -14,6 +14,7 @@ This research project studies first names in historical Europe (circa 1750-1950)
 
 Funded by the Research Council of Norway (FRIPRO, 2026-2030), this project is hosted at the Department of Historical Studies at the Norwegian University of Science and Technology. 
 
+
 ::: {#about-block}
 ## News
 :::

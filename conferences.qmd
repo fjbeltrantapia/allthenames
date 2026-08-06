@@ -1,15 +1,20 @@
 
+::: {style="text-align: center;"}
+### Workshop
 
-::: {.grid}
-
-::: {.g-col-9}
-### Workshop: What was in a name? Culture, naming practices and individual outcomes in the past 
+### What was in a name?<br>Culture, naming practices and individual outcomes in the past 
 
 **Trondheim, October 12-13**
+
+:::
 
 <div style="margin-bottom: 2em;"></div>
 
 **Call for Papers**
+
+::: {.grid}
+
+::: {.g-col-9}
 
 Naming practices reflect the cultural context underpinning a particular society, thus offering a unique opportunity to study cultural variation, persistence and change. Likewise, given that first names provide crucial insights about parental values and beliefs, they can shed light on how cultural factors may have influenced the way parents raised their children (e.g. the care they devoted to their children, the importance they attached to education, their political views, etc.). 
 

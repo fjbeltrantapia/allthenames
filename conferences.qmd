@@ -15,7 +15,7 @@
 
 ---
 
-[**Programme**](conf-prog-2026-v1.qmd)
+[**Programme**](conf-prog-2026.qmd)
 
 ---
 

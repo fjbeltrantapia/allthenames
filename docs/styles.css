@@ -16,3 +16,81 @@
 .quarto-about-trestles .about-contents {
   flex: 0 0 80%;  /* Right panel = 80% */
 }
+
+.equal-height-images img {
+  height: 250px;
+  width: 100%;
+  object-fit: cover;
+}
+
+dt {
+  display: grid;
+  grid-template-columns: 60px 1fr;
+  column-gap: 10px;
+}
+
+.dt-time {
+  font-weight: normal;
+}
+
+dd {
+  margin-left: 70px; /* must match .dt-time width exactly */
+  margin-top: 0;
+  font-style: italic;
+}
+
+.dt-time-break {
+  display: inline-block;
+  width: 300px; /* same width used everywhere for the time column */
+  font-weight: normal;
+}
+
+.dt-title-break {
+  text-align: center;
+  font-style: italic;
+}
+
+.term-row p {
+  display: flex;
+  justify-content: space-between;
+  margin: 0; /* remove default paragraph spacing if needed */
+}
+
+.term-left,
+.term-right {
+  font-size: 1.5em; /* roughly h3 size — adjust to taste */
+  font-weight: bold;
+}
+
+
+.soft-break {
+  height: 1px;
+  width: 30%;
+  margin: 1.5rem auto;
+  background: linear-gradient(to right, transparent, #ccc, transparent);
+}
+
+.labeled-break {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  width: 60%;
+  margin: 2rem auto;
+  color: #888;
+  font-size: 0.9em;
+}
+.labeled-break::before,
+.labeled-break::after {
+  content: "";
+  flex: 1;
+  height: 1px;
+}
+.labeled-break::before {
+  background: linear-gradient(to right, transparent, #ccc);
+}
+.labeled-break::after {
+  background: linear-gradient(to left, transparent, #ccc);
+}
+.labeled-break p {
+  margin: 0;   /* Quarto wraps the text in <p>, which adds vertical margin */
+}

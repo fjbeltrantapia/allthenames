@@ -57,11 +57,7 @@ Venue: [Akrinn](https://maps.app.goo.gl/neGSMmi15nzrfNyr5) (Sverres gate 12) - R
 *Coffee break*
 :::
 
-[15:15]{.dt-time} **Naming and social mobility in Southern Europe (the area of Barcelona, 16th-19th centuries)**
-
-: Gabriel Brea Martínez (Open University of Catalonia) and Joana M. Pujadas Mora (Open University of Catalonia)
-
-[16:00]{.dt-time} **TBA**
+[15:30]{.dt-time} **In the Name of God! Religiosity and the Production of Science**
 
 : Lars H. Andersen (Norwegian University of Science and Technology)	 
 <!--
@@ -109,16 +105,16 @@ Venue: [Akrinn](https://maps.app.goo.gl/neGSMmi15nzrfNyr5) (Sverres gate 12) - R
 *Coffee break*
 :::
 
-[14:15]{.dt-time} **The practice of giving names in Russian Orthodox culture: the problems of choice**
+[14:30]{.dt-time} **The practice of giving names in Russian Orthodox culture: the problems of choice**
 
 : Alexandre Avdeev (University of Paris 1 Panthéon Sorbonne) and Irina Troitskaya	(University of Paris 1 Panthéon Sorbonne)
 
-[15:00]{.dt-time} **In the name of kings: Nationalism and education in early-20th century Norway**
+[15:15]{.dt-time} **In the name of kings: Nationalism and education in early-20th century Norway**
 
 : Francisco J. Beltrán Tapia (Norwegian University of Science and Technology)	
 
 ::: {.labeled-break}
-*Coffee break*
+*QUIZ TIME!*
 :::
 
 [18:00]{.dt-time-break} [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**--- Farewell Dinner ---**]{.dt-title-break}

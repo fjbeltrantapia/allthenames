@@ -45,6 +45,12 @@ dd {
   font-weight: normal;
 }
 
+.dt-time-dinner {
+  display: inline-block;
+  width: 150px; /* same width used everywhere for the time column */
+  font-weight: normal;
+}
+
 .dt-title-break {
   text-align: center;
   font-style: italic;

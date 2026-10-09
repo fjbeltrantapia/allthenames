@@ -65,8 +65,7 @@ Venue: [Akrinn](https://maps.app.goo.gl/XsCHE62ZvE7VRgTU7?g_st=ic) (Sverres gate
 [17:00]{.dt-time-break} [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***--- City walk ---***]{.dt-title-break}
 -->
 
-[18:30]{.dt-time-break} [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***--- Dinner ---***]{.dt-title-break}
-<!-- ([To Rom og Kjøkken](https://maps.app.goo.gl/zJosBWw33q1dNeGM7), Karl Johan Gate 5) -->
+[18:00]{.dt-time-dinner} ***Dinner*** &nbsp;&nbsp;&nbsp; (in [To Rom og Kjøkken](https://maps.app.goo.gl/zJosBWw33q1dNeGM7), Karl Johan Gate 5)
 
 
 
@@ -122,9 +121,8 @@ Venue: [Akrinn](https://maps.app.goo.gl/XsCHE62ZvE7VRgTU7?g_st=ic) (Sverres gate
 *QUIZ TIME!*
 :::
 
-[18:00]{.dt-time-break} [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**--- Farewell Dinner ---**]{.dt-title-break}
+[18:30]{.dt-time-dinner} ***Farewell Dinner*** &nbsp;&nbsp;&nbsp; (in [Kalas og Canasta](https://maps.app.goo.gl/oefSDsp1evjcDSFr8), Nedre Bakklandet 5)
 
-<!-- [Kalas og Canasta](https://maps.app.goo.gl/oefSDsp1evjcDSFr8), Nedre Bakklandet 5 --> 
 
 ---
 
